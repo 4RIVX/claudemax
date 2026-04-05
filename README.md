@@ -1,2 +1,0 @@
-# claudemax
-A clean, editorial-style HTML/CSS promotional poster for Anthropic's Claude for Open Source program — offering qualifying OSS maintainers 6 months of free Claude Max 20×. Built with pure HTML &amp; CSS (no frameworks). Suitable for embedding, sharing, or using as a reference for poster-style web UI design.
